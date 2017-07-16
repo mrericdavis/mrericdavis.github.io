@@ -152,7 +152,7 @@ a:focus {
   .intro .intro-body .intro-text {
     font-size: 26px;
   }
-}
+/*}
 .btn-circle {
   width: 70px;
   height: 70px;
@@ -188,7 +188,7 @@ a:focus {
   -moz-animation-iteration-count: infinite;
   -webkit-animation-timing-function: linear;
   -moz-animation-timing-function: linear;
-}
+}*/
 @-webkit-keyframes pulse {
   0% {
     -webkit-transform: scale(1);
