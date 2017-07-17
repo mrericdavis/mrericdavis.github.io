@@ -313,8 +313,7 @@ body {
   webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
 }
 
-img {
-    height: 200px;
-    width: auto;
-
+.thing {
+    height: 100px;
+    width: 100px;
 }
