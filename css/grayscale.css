@@ -58,6 +58,7 @@ a:focus {
   text-transform: uppercase;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: black;
+  font-color:black;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -119,7 +120,7 @@ a:focus {
 }
 .intro {
   display: table;
-  width: 100%;
+  width: 100px;
   height: auto;
   padding: 100px 0;
   text-align: center;
